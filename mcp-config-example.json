@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "roblox-clothing": {
+      "command": "node",
+      "args": ["/Users/d.edens/lab/roblox_grifting/dist/index.js"],
+      "env": {}
+    }
+  }
+}

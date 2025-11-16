@@ -98,8 +98,8 @@ function generateNeonMadTinkerSVG(): string {
     <circle cx="256" cy="128" r="50" fill="none" stroke="url(#cyanGlow)" stroke-width="4" filter="url(#glow)"/>
     <use href="#neonGearShape" x="256" y="128" transform="scale(1.6)"/>
 
-    <text x="256" y="205" font-family="monospace" font-size="16" fill="#00ffff" text-anchor="middle" font-weight="bold" filter="url(#glow)">THE LAB</text>
-    <text x="256" y="222" font-family="monospace" font-size="10" fill="#ff00ff" text-anchor="middle" font-weight="bold">MADNESS INTERACTIVE</text>
+    <text x="256" y="202" font-family="monospace" font-size="16" fill="#00ffff" text-anchor="middle" font-weight="bold" filter="url(#glow)">THE LAB</text>
+    <text x="256" y="219" font-family="monospace" font-size="10" fill="#ff00ff" text-anchor="middle" font-weight="bold">MADNESS INTERACTIVE</text>
   </g>
 
   <!-- ========== FRONT (bottom center) ========== -->
@@ -134,8 +134,8 @@ function generateNeonMadTinkerSVG(): string {
     <!-- Holographic name tag -->
     <rect x="295" y="400" width="75" height="32" rx="4" fill="#000" stroke="url(#pinkGlow)" stroke-width="2"/>
     <rect x="295" y="400" width="75" height="32" rx="4" fill="none" stroke="#ff00ff" stroke-width="1" opacity="0.3" filter="url(#glow)"/>
-    <text x="332" y="418" font-family="monospace" font-size="11" fill="#00ffff" text-anchor="middle" font-weight="bold" filter="url(#glow)">MAD</text>
-    <text x="332" y="430" font-family="monospace" font-size="11" fill="#ff00ff" text-anchor="middle" font-weight="bold" filter="url(#glow)">TINKER</text>
+    <text x="332" y="415" font-family="monospace" font-size="11" fill="#00ffff" text-anchor="middle" font-weight="bold" filter="url(#glow)">MAD</text>
+    <text x="332" y="427" font-family="monospace" font-size="11" fill="#ff00ff" text-anchor="middle" font-weight="bold" filter="url(#glow)">TINKER</text>
   </g>
 
   <!-- ========== ARMS ========== -->
